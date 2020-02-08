@@ -1,3 +1,3 @@
-the sencond file show how to use git command
+the sencond file show how to use git command conflict1
 
 test branch command 20200208
