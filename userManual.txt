@@ -1,3 +1,5 @@
-the sencond file show how to use git command conflict2inmaster
+
+the sencond file show how to use git command conflict1 and conflict2
+
 
 test branch command 20200208
